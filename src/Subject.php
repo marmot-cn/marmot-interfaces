@@ -1,5 +1,5 @@
 <?php
-namespace Marmot\Basecode\Interfaces;
+namespace Marmot\Interfaces;
 
 /**
  * 观察者subject接口
