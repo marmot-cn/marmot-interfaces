@@ -1,5 +1,5 @@
 <?php
-namespace Marmot\Basecode\Application;
+namespace Marmot\Interfaces\Application;
 
 interface IApplicationRoute
 {
